@@ -7,23 +7,31 @@ I have worked on several Machine Learning projects, available on GitHub, mainly 
 
 ## :briefcase: Professional Experience
 
-Mar 2022 - Ongoing  **||**  Transport Performance Analyst - EU AMXL CX @ AMAZON  **||**  Barcelona (Spain)
+#### Mar 2022 - Ongoing  **||**  Transport Performance Analyst - EU AMXL CX @ AMAZON  **||**  Barcelona (Spain)
 * Daily analysis of the EU Amazon XL network for a prompt resolution of service disruptions and
 potential structural problems, ensuring the best Customer Experience possible.
 * Developing a bot to examine the current state of the network, reporting all the disruptions that
 occurred for a further deep dive.
 
 
-Mar 2021 - Dec 2021  **||**  Data Science Intern @ ACEGASAPSAMGA S.P.A. - HERA GROUP  **||**  Trieste (Italy)
+#### Mar 2021 - Dec 2021  **||**  Data Science Intern @ ACEGASAPSAMGA S.P.A. - HERA GROUP  **||**  Trieste (Italy)
 * Using Reinforcement Learning to optimize the resolution of the city’s power grid outages.
 
 
 ## :mortar_board: Education & Training
 
-Oct 2019 - Dec 2021  **||**  Master’s Degree in Data Science and Scientific Computing @ [University of Trieste](https://github.com/Units) and [SISSA](https://github.com/sissa)
+#### Oct 2019 - Dec 2021  **||**  Master’s Degree in Data Science and Scientific Computing @ [University of Trieste](https://github.com/Units) and [SISSA](https://github.com/sissa)
+*Dissertation:* Optimizing fault search in power grid outages through Reinforcement Learning.
+*Supervisors:* Antonio Celani (ICTP), Andrea Zancola (AcegasApsAmga), Luca Bortolussi (UniTS), Emanuele Panizon (ICTP).
 
-Sep 2015 - Mar 2019  **||**  Bachelor’s Degree in Mathematics @ University of Trento
+*Relevant courses:* Introduction to Machine Learning, Statistical Machine Learning, Information Retrieval, Deep Learning, Reinforcement Learning, Advanced Programming and Algorithmic Design, Software Development Methods, Data Management for Big Data.
 
+
+#### Sep 2015 - Mar 2019  **||**  Bachelor’s Degree in Mathematics @ University of Trento
+*Dissertation:* Gröbner bases and computational applications
+*Supervisor:* Willem de Graaf (UniTN).
+
+*Relevant courses:* Mathematical Statistics, Programming 2, Algorithms and Data Structures.
 
 ## :card_index_dividers: Projects
 
@@ -33,7 +41,7 @@ Sep 2015 - Mar 2019  **||**  Bachelor’s Degree in Mathematics @ University of 
 
 * Implementation and testing of a Binary Search Tree in C++, which is about 15% faster than std::map, depending on the operating system. [GitHub](https://github.com/matteosecli/AP_BST)
 
-* Development of the game "Dots and boxes" and development of an intelligent player which learns how to play using Reinforcement Learning. [GitHub](https://github.com/andygaspar/d-bSML)
+* Development of the game "Dots and boxes" and an intelligent player which learns how to play using Reinforcement Learning. [GitHub](https://github.com/andygaspar/d-bSML)
 
 * A review of the literature concerning Graph Neural Networks for the course of "Deep Learning". [GitHub](https://github.com/AngieC96/DeepLearningProject)
 
@@ -42,6 +50,10 @@ Sep 2015 - Mar 2019  **||**  Bachelor’s Degree in Mathematics @ University of 
 * Group project on the pen-and-paper Freedom game using Java and Gradle, we performed continuous integration using Travis CI, and adopted the Agile practices. [GitHub](https://github.com/AngieC96/Freedom-SDMProject)
 
 * Data Visualizations on some aspects of our relationship with the infosphere and how it changed with the rise of the Internet. [GitHub](https://github.com/AngieC96/DataVisualizationProject)
+
+* Finite Element Solver for the Allen-Cahn Equation. [GitHub](https://github.com/AngieC96/P1.4_seed/blob/master/final_project/final_project_2019-2020_DONE.ipynb)
+
+* Leaf classifier using Machine Learning.
 
 
 ## :computer: Tech Skills
