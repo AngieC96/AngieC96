@@ -21,7 +21,7 @@ occurred for a further deep dive.
 ## :mortar_board: Education & Training
 
 #### Oct 2019 - Dec 2021  **||**  Master’s Degree in Data Science and Scientific Computing @ [University of Trieste](https://github.com/Units) and [SISSA](https://github.com/sissa)
-*Dissertation:* Optimizing fault search in power grid outages through Reinforcement Learning. [GitHub]([https://github.com/AngieC96/MasterThesis](https://github.com/AngieC96/MasterThesis/blob/main/manoscritto/Master_Thesis_Carraro_Angela.pdf))
+*Dissertation:* Optimizing fault search in power grid outages through Reinforcement Learning. [GitHub](https://github.com/AngieC96/MasterThesis/blob/main/manoscritto/Master_Thesis_Carraro_Angela.pdf)\
 *Supervisors:* Antonio Celani (ICTP), Andrea Zancola (AcegasApsAmga), Luca Bortolussi (UniTS), Emanuele Panizon (ICTP).
 
 *Relevant courses:* Introduction to Machine Learning, Statistical Machine Learning, Information Retrieval, Deep Learning, Reinforcement Learning, Advanced Programming and Algorithmic Design, Software Development Methods, Data Management for Big Data.
